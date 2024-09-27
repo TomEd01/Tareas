@@ -1,7 +1,9 @@
 # TAREAS DEL SEMESTRE 🎓
 
-Bueno estas son todas las actividades hechas por [TomiCat](https://github.com/TomEd01)
+Bueno estas son todas las actividades hechas por [Edwin Tomas Tepox López](https://github.com/TomEd01)
 
+
+<!--
 ## Tarea #998 instalación de git bash, python3, VSC, llave ssh
 
 ![](Instalaciones.png)
@@ -26,3 +28,4 @@ Mi primer con python esta juustamenmte [aqui](https://github.com/TomEd01/Python-
 
 ## Tarea #989 curso de 300hrs con python
 ![](Certificado.png)
+-->
